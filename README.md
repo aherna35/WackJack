@@ -1,2 +1,2 @@
 # WackJack
- Not entirely black jack
+ Essentially black jack 
